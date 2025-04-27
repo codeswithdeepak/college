@@ -1,4 +1,4 @@
 # college
 my first project
 <br>
-aythart-- deepak shukla 
+authar-- deepak shukla 
